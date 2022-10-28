@@ -15,6 +15,8 @@ public class Ejemplo09 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println(true && true);
+        System.out.println(true && false);
         
     }
     
